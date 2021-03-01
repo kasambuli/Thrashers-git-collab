@@ -2,4 +2,4 @@
 
 
 # Thrashers-git-collab
-## Add your Name
+## Loyce Njoroge
